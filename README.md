@@ -10,3 +10,6 @@
 
 ## How to Run
 1. Clone the repository:
+
+
+## inside the backend frontend files are merged
